@@ -4,6 +4,12 @@ Certify The Web is the GUI and certificate management system for Let's Encrypt, 
 
 https://certifytheweb.com
 
+https://certifytheweb.com/home/features
+
+https://community.certifytheweb.com/
+
+![App Screenshot](https://certifytheweb.com/images/screens/Status.png)
+
 <!--
 **certifytheweb/certifytheweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,11 +2,13 @@
 
 Certify The Web is the GUI and certificate management system for Let's Encrypt, BuyPass Go and other ACME enabled certificate services.
 
-https://certifytheweb.com
+Web: https://certifytheweb.com
 
-https://certifytheweb.com/home/features
+Features: https://certifytheweb.com/home/features
 
-https://community.certifytheweb.com/
+Community: https://community.certifytheweb.com/
+
+Code: https://github.com/webprofusion/certify
 
 ![App Screenshot](https://certifytheweb.com/images/screens/Status.png)
 
